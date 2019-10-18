@@ -1,0 +1,22 @@
+#header, #content, #show_hide {
+	background: url(/wp-content/themes/village/images/bg_adventure_dark.png);
+}
+
+#comments h5 {
+	border-top: 1px dashed #333;
+	border-bottom: 1px dashed #333;
+}
+
+#thumbs, #floating_slideshow_nav {
+	background: url(/wp-content/themes/village/images/bg_adventure_dark.png);
+}
+
+#header {
+	border-right: 5px solid #333;
+	border-right: 5px solid rgba(255,255,255,0.03);
+}
+
+h1.title, h1.post_title {
+	border-bottom: 10px solid #292929;
+	border-bottom: 10px solid rgba(0,0,0,0.05);
+}
