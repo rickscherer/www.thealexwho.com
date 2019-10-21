@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Posts &#8211; thealexwho.com</title>
+	<atom:link href="/category/posts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Jan 2012 00:52:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>CES 2012</title>
+		<link>/first-post/</link>
+				<comments>/first-post/#respond</comments>
+				<pubDate>Tue, 10 Jan 2012 09:21:15 +0000</pubDate>
+		<dc:creator><![CDATA[AlexWho]]></dc:creator>
+				<category><![CDATA[Posts]]></category>
+
+		<guid isPermaLink="false">/?p=157</guid>
+				<description><![CDATA[Come see AlexWho at the Consumer Electronics Show (CES) in Las Vegas, NV the week of January 9th. Who knows, he may even sign an autographed picture for you&#8230; or punch you in the face! For those of you that don&#8217;t know what CES is, The International Consumer Electronics Show (CES) is a major technology-related trade show held each January in the Las Vegas Convention Center, Las Vegas, Nevada, United States. Not open to the public, the Consumer Electronics Association-sponsored show typically hosts previews of products and new product announcements. CES rose to prominence after COMDEX was canceled.]]></description>
+								<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter" style="border-style: initial; border-color: initial; border-image: initial; margin-top: 1px; margin-bottom: 1px; border-width: 0px;" title="CES2012" src="http://cdn.pocket-lint.com/images/DvkM/international-ces-2012-preview-round-up-0.jpg?20120108-153307" alt="" width="200" /><br />
+Come see AlexWho at the Consumer Electronics Show (CES)<br />
+in Las Vegas, NV the week of January 9th.<br />
+Who knows, he may even sign an autographed picture for you&#8230;<br />
+or punch you in the face!</p>
+<p style="text-align: center;">For those of you that don&#8217;t know what CES is, The International Consumer Electronics Show (CES) is a major technology-related trade show held each January in the Las Vegas Convention Center, Las Vegas, Nevada, United States. Not open to the public, the Consumer Electronics Association-sponsored show typically hosts previews of products and new product announcements. CES rose to prominence after COMDEX was canceled.</p>
+]]></content:encoded>
+							<wfw:commentRss>/first-post/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
